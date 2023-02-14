@@ -6,7 +6,7 @@ cortex with 3D tracking of tongue and jaw kinematics using biplanar video radiog
 engage in natural feeding behaviour.
 
 I am primarily from Physics background with a specialisation in computational biology. I have a PhD from the Physics department,
-National Institute of Technology Karnataka, Surathkal, India. My doctoral thesis was focoused on the
+National Institute of Technology Karnataka, Surathkal, India. My doctoral thesis was focused on the
 dynamics and control of cardiac-arrhythmia-causing spiral waves using low voltage electric fields. I have also worked the 
 pattern formation in Belousov-Zhabotinsky chemical reaction and computational problems on Blackhole Thermodynamics. 
 
