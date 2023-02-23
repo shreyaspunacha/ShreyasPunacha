@@ -7,7 +7,7 @@ engage in natural feeding behaviour.
 
 I am primarily from Physics background with a specialisation in computational biology. I have a PhD from the Physics department,
 National Institute of Technology Karnataka, Surathkal, India. My doctoral thesis was focused on the
-dynamics and control of cardiac-arrhythmia-causing spiral waves using low voltage electric fields. I have also worked the 
+dynamics and control of cardiac-arrhythmia-causing spiral waves using low voltage electric fields. I have also worked on the 
 pattern formation in Belousov-Zhabotinsky chemical reaction and computational problems on Blackhole Thermodynamics. 
 
 If you want to find more about me, please visit my webstite: https://shreyaspunacha.github.io
