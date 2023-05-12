@@ -1,13 +1,7 @@
 I am a Postdoctoral fellow in the University of Washington, Seattle. My research focuses
-on how cortical and biomechanical changes in the oromotor behaviour contribute to the onset and
-progression of Alzheimer’s disease and other age-related dementias. In our laboratory, we simultaneously 
-record cortical activity from multiple chronically implanted microelectrode arrays in the Orofacial Sensorimotor 
-cortex with 3D tracking of tongue and jaw kinematics using biplanar video radiography setup while young and old macaques 
-engage in natural feeding behaviour.
+on the intricate relationship between the cortical and biomechanical changes during the oromotor behaviour 
+and their implications in the onset and progression of Alzheimer's disease and other age-related dementias.
 
-I am primarily from Physics background with a specialisation in computational biology. I have a PhD from the Physics department,
-National Institute of Technology Karnataka, Surathkal, India. My doctoral thesis was focused on the
-dynamics and control of cardiac-arrhythmia-causing spiral waves using low voltage electric fields. I have also worked on the 
-pattern formation in Belousov-Zhabotinsky chemical reaction and computational problems on Blackhole Thermodynamics. 
+In our laboratory, we use chronically implanted microelectrode arrays to capture the cortical activity in the orofacial sensorimotor cortex while simultaneously tracking the precise movements of the tongue and the jaw in three dimensions using a biplanar video-radiography setup. These observations are made during the natural feeding behaviour of both the young and old macaques, providing valuable insights into the complex mechanisms at play.
 
-If you want to find more about me, please visit my webstite: https://shreyaspunacha.github.io
+My academic background is rooted in Physics, with a specialization in computational biology. I hold a PhD from the Physics department at National Institute of Technology Karnataka, Surathkal in India. My doctral research was focused on the dynamics and control of spiral waves that cause life-threatening cardiac arrhythmias using low voltage electric fields. I have also explored pattern formation in Belousov-Zhabotinsky chemical reaction and tackled computational problems in Blackhole Thermodynamics and Fluid Gravity. To find out more about me, please visit my webstite: https://shreyaspunacha.github.io
